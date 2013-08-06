@@ -20,7 +20,7 @@ return array(
     "alpha"            => ":attribute يجب أن يحوي أحرفاً فقط.",
     "alpha_dash"       => ":attribute يجب أن يحوي أحرف وأرقام وإشارة ناقص.",
     "alpha_num"        => ":attribute يجب أن يحوي أحرف وأرقام.",
-    "array"            => "The :attribute must be an array.",
+    "array"            => ":attribute يمكن ان يكون مصفوفة.",
     "between"          => array(
         "numeric" => ":attribute يجب أن يكون ؤقمًا بين :min - :max.",
         "file"    => ":attribute يجب أن يكون بين :min - :max كيلو بايت.",
