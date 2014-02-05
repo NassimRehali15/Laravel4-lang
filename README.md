@@ -14,7 +14,7 @@ To add languages in your application:
 * clone this repository
 * or take the [zip file](https://github.com/caouecs/Laravel4-lang/archive/master.zip)
 * copy the folders of languages that you want, in *app/lang*
-
+* finnaly , change this line in *config/app* : *'locale' => 'your_lang',*
 
 How can I add a language in this project ?
 ---
