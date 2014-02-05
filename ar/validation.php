@@ -25,7 +25,7 @@ return array(
         "numeric" => ":attribute يجب أن يكون ؤقمًا بين :min - :max.",
         "file"    => ":attribute يجب أن يكون بين :min - :max كيلو بايت.",
         "string"  => ":attribute يجب أن يكون طوله بين :min - :max من الأحرف.",
-        "array"   => "The :attribute must have between :min - :max items."
+        "array"   => " :attribute يجب ان يكون مابين :min - :max items."
     ),
     "confirmed"        => "تأكيد :attribute لا يتطابق.",
     "date"             => ":attribute ليس تاريخ صحيح.",
